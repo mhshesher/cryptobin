@@ -1,4 +1,9 @@
 # CryptoBin
+
+<p align="center">
+<img allign="left" src="Images/Home.jpg" Height="500">     <img allign="center" src="Images/Encrypter.jpg" Height="500">     <img allign="right" src="Images/Decrypter.jpg" Height="500">
+</p>
+
 **Cryptobin** is an android application that converts your text into a encrypted binary text that can only be decrypted by **Cryptobin**. Instead of traditional encryption rules, it follows an algorithm implemented by the developer.
 
 ## Features
